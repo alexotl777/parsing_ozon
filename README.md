@@ -35,9 +35,9 @@ iOS 14 — 8
 
 `scrapy crawl phones_crawl -o os_versions.json`
 
-2 - Подождать когда все данные спарсятся в os_versions.json
+2 - Подождать, когда все данные спарсятся в *os_versions.json*
 
-3 - В корневой папке запустить команду:
+3 - В корневой папке в терминале запустить команду:
 
 `python model_distribution.py`
 
